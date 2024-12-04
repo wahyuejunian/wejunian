@@ -2,7 +2,7 @@
 title: "Hybrid particle swarm optimization and grey wolf optimizer algorithm for Controlled Source Audio-frequency Magnetotellurics (CSAMT) one-dimensional inversion modelling"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023_PSOGWO
 excerpt: 
 date: 2023-08-14
 venue: 'Rudarsko-geološko-Naftni Zbornik'
