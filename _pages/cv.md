@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Pendidikan
 ======
 * 2021-2023: S2 Teknik Geofisika, Institut Teknologi Bandung (ITB)
 * 2016-2020: S1 Teknik Geofisika, Institut Teknologi Sumatera (ITERA)
 
-Work experience
+Pengalaman Kerja
 ======
 * 2023-sekarang: Dosen Teknik Geofisika
   * Institut Teknologi Sumatera
@@ -22,31 +22,22 @@ Work experience
 * 2020-2023: Asisten Akademik
   * Institut Teknologi Sumatera
   
-Skills
+Keahlian
 ======
-* Geophysical Computation
-* Inverse Modeling
-* Electromagnetic Methods
+* Komputasi Geofisika
+* Pemodelan Inversi
+* Metode Elektromagnetik (MT, CSAMT, GPR, dll)
 * Python and Matlab (Bahasa Pemrograman)
 
-Publications
+Publikasi
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+ 
+Mengajar
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
