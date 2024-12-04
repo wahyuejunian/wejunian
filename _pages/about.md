@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Selamat Datang di Halaman Pribadi Wahyu Eko Junian"
 author_profile: true
 redirect_from: 
   - /about/
