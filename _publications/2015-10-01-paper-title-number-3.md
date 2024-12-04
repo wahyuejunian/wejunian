@@ -6,8 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-08-14
 venue: 'Rudarsko-geološko-Naftni Zbornik'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.17794/rgn.2023.3.6'
 citation: 'Junian, W.E. & Grandis, H. (2023). &quot;Hybrid particle swarm optimization and grey wolf optimizer algorithm for Controlled Source Audio-frequency Magnetotellurics (CSAMT) one-dimensional inversion modelling&quot; <i>Rudarsko-geološko-Naftni Zbornik</i>. 38(3). 65–80'
 ---
 
