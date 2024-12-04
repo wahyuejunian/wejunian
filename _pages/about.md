@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Halo! Saya Wahyu E. Junian, dosen di Program Studi Teknik Geofisika, Institut Teknologi Sumatera (ITERA). Dengan latar belakang akademik di bidang Teknik Geofisika dari Institut Teknologi Bandung (ITB) dan pengalaman mengajar serta penelitian di bidang pemodelan inversi dan metode elektromagnetik, saya berkomitmen untuk berbagi ilmu dan menginspirasi mahasiswa untuk memahami aplikasi geofisika dalam berbagai sektor.
+Halo! Saya Wahyu Eko Junian, dosen di Program Studi Teknik Geofisika, Institut Teknologi Sumatera (ITERA). Dengan latar belakang akademik di bidang Teknik Geofisika dan pengalaman mengajar serta penelitian di bidang pemodelan inversi dan metode elektromagnetik, saya berkomitmen untuk berbagi ilmu dan menginspirasi mahasiswa untuk memahami aplikasi geofisika dalam berbagai sektor.
 
 Di halaman ini, Anda dapat menemukan informasi tentang:
 ======
