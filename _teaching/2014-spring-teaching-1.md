@@ -4,7 +4,6 @@ collection: teaching
 type: "Semester 1"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Tahap Persiapan Bersama (TPB), ITERA"
-date: 2014-01-01
 location: "Lampung Selatan, Indonesia"
 ---
 
