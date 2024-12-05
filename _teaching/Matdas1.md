@@ -17,25 +17,10 @@ Kuliah ini wajib diambil oleh mahasiswa TPB. Setelah mengikuti kuliah ini, mahas
 
 ## Tables
 
-### Table 1
+### Materi Pembelajaran
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-
+| Pertemuan ke-   |                             Topik Bahasan                                 |
+| ------ | ------------------------------------------------------------ |
+| 2016   | Description of the item in the list                          |
+| 2019   | Description of the item in the list                          |
+| 2022   | Description of the item in the list                          |
