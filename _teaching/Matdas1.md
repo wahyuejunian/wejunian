@@ -8,12 +8,11 @@ location: "Lampung Selatan, Indonesia"
 ---
 
 Kuliah ini wajib diambil oleh mahasiswa TPB. Setelah mengikuti kuliah ini, mahasiswa diharapkan: 
-1. Dapat menjelaskan konsep sistem bilangan real dan memecahkan permasalahan yang berkaitan dengan fungsi.
-2. Dapat menggunakan konsep limit dan kekontinuan dalam menyelesaikan permasalahan yang berkaitan dengan limit dan kekontinuan suatu fungsi
-3. Dapat menggunakan konsep turunan dalam menyelesaikan permasalahan yang berkaitan dengan turunan
-4. Dapat memodelkan dan menyelesaikan masalah dalam kehidupan sehari-hari dengan menggunakan konsep turunan
-5. Dapat menggunakan konsep integral dalam menyelesaikan permasalahan yang berkaitan dengan integral
-6. Dapat menerapkan konsep integral dalam menghitung luas daerah dan volume benda puta
+1.  Ketepatan penentuan domain fungsi dan nilai fungsi hasil komposisi
+2.  Ketepatan penentuan kekontinuan suatu fungsi dengan menhitung nilai limit fungsi
+3.  Ketepatan penggunaan turunan dalam menyelasaik masalah turunan dan aplikasinya
+4.  Ketepatan penentuan model matematika yang merepresentasikan masalah di kehidupan nyata
+5.  Ketepatan menghitung integral dan menerapkan konsep integral dalam menghitung luas daerah dan volume benda putar.
 
 
 ### Materi Pembelajaran
