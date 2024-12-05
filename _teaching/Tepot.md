@@ -2,7 +2,7 @@
 title: "Teori Potensial"
 collection: teaching
 type: "Semester 4"
-permalink: /teaching/Geomat1
+permalink: /teaching/Tepot
 venue: "Prodi Teknik Geofisika, ITERA"
 location: "Lampung Selatan, Indonesia"
 ---
