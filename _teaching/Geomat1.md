@@ -7,9 +7,19 @@ venue: "Prodi Teknik Geofisika, ITERA"
 location: "Lampung Selatan, Indonesia"
 ---
 
-Mata kuliah ini wajib diikuti oleh mahasiswa Teknik Geofisika di semester ke-3.
+Setelah mengikuti perkuliahan ini mahasiswa diharapkan memiliki wawasan pengetahuan, pemahaman, dan kemampuan baik terhadap metode dan teknik fisika matematika, dapat memformulasikan prinsip-prinsip dalam bidang geofisika dan geologi secara matematis, serta dapat menggunakannya dalam berbagai proses pemecahan masalah, baik yang berkaitan dengan persoalan dalam bidang geofisika maupun matematika itu sendiri
 
-Materi Pembelajaran
-======
-1. Barisan dan deret
-2. 
+
+### Materi Pembelajaran
+
+| Pertemuan ke-   |           Topik Bahasan           |
+| ------ | ------------------------------------------ |
+| I            | Pendahuluan                          |
+| II-III       | Deret                                |
+| IV-V         | Bilangan Kompleks                    |
+| VI-VII       | Aljabar Linier                       |
+| VIII         | Ujian Tengah Semester (UTS)          |
+| IX-X         | Persamaan Diferensial Parsial        |
+| XI-XII       | Integral lipat                       |
+| XIII-XV      | Analisis Vektor                      |
+| XVI          | Ujian Akhir Semester (UAS)           |
