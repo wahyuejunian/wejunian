@@ -31,4 +31,3 @@ Kuliah ini wajib diambil oleh mahasiswa TPB. Setelah mengikuti kuliah ini, mahas
 | XII-XIV           | Aplikasi Integral: Menghitung Luas Daerah<br>Aplikasi Integral: Menghitung Volume Benda Putar      |
 | XV                | Review                                                                                            |
 | XVI               | Ujian Akhir Semester (UAS)                                                                        |
-
