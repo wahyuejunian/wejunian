@@ -16,7 +16,6 @@ Kuliah ini wajib diambil oleh mahasiswa TPB. Setelah mengikuti kuliah ini, mahas
 6. Dapat menerapkan konsep integral dalam menghitung luas daerah dan volume benda puta
 
 
-======
 ### Materi Pembelajaran
 | Pertemuan ke- | Topik Bahasan |
 |:--------|:-------:|
