@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "BIO"
+  - title: "Bio"
     url: /cv/
     
-  - title: "PUBLIKASI"
+  - title: "Publikasi"
     url: /publications/
 
-  - title: "KULIAH"
+  - title: "Kuliah"
     url: /teaching/    
     
-  - title: "REPOSITORI"
+  - title: "Repositori"
     url: /portfolio/
           
-  - title: "CATATAN"
+  - title: "Catatan"
     url: /markdown/
